@@ -1,1 +1,1 @@
-# web-dev-sem-2
+This is for daily work update
